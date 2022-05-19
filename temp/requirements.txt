@@ -1,0 +1,22 @@
+Requirements
+
+    Searches the user's backpack and inventory for current cards
+    Compares it to the list below and gives a percentage
+    Filter/search functionality /
+    -----Filters by 'Needed', 'In Possession', 'All'
+    Matches the current style/color scheme
+
+Nice-to-haves
+
+    For elevated permission levels, have an add/edit/delete feature for each vehicle, allowing for changes in the vehicle list and correction of typos
+    Filter by backpack/inventory/both with a toggle. Default view is both.
+    Would be cool if it were two columns; Something like: User's cards on the left and whats needed on the right?
+    Search bar to see others' progress
+    Add logic and UI for a showing progress of completionist levels
+    -----Completionist x 1 means a person has at least one of every card
+    -----Completionist x 2 means a person has at least two of every card
+    -----While a person is going for Completionist x 1, also show progress to the next two levels (x2 and x3)
+    -----After completionist x 1 is complete, show progress to Completionist x2, x3, and x4
+
+
+https://docs.google.com/spreadsheets/d/1SytfWXsNGBz_lj1P5u5JR8LFap5fTDixCrHa2dWPjgI/edit#gid=664925855

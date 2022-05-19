@@ -1,0 +1,3 @@
+There's a cdn endpoint where the name of the png matches column 1 of that spreadsheet. Let me see if I can find it 
+and pic
+https://cdn.tycoon.community/dealership/vehicles/diabolus.png
