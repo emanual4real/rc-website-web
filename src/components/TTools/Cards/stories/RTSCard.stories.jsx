@@ -16,7 +16,14 @@ const Template = (args) => (
   </div>
 );
 
-export const Default = Template.bind({});
-Default.args = {
+export const Needed = Template.bind({});
+Needed.args = {
   ...cardData,
+  owned: 0,
+};
+
+export const Owned = Template.bind({});
+Owned.args = {
+  ...cardData,
+  owned: 1,
 };
